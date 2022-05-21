@@ -1,0 +1,17 @@
+{
+    "name": "gpio",
+    "keywords": "gpio",
+    "description": "warpper for gpio",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/KisonHe/gpio.git"
+    },
+    "frameworks": "arduino",
+    "version": "0.0.1",
+    "authors":
+    {
+        "name": "Kison He",
+        "email": "kisonhepenpal@gmail.com"
+    }
+  }
+  
